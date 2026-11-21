@@ -1,0 +1,8 @@
+kit/
+runs/
+transcripts/
+*.tar.gz
+*.jsonl
+/tmp/
+out/
+requirements.json
